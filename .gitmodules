@@ -1,3 +1,6 @@
 [submodule "105-tainan-cluster"]
 	path = 105-tainan-cluster
 	url = https://github.com/lyshie/105-tainan-cluster
+[submodule "pixel-font"]
+	path = pixel-font
+	url = https://github.com/lyshie/pixel-font
