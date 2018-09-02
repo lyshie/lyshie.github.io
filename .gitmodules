@@ -10,3 +10,6 @@
 [submodule "google-tts-player"]
 	path = google-tts-player
 	url = https://github.com/lyshie/google-tts-player
+[submodule "lyshie-education"]
+	path = lyshie-education
+	url = https://github.com/lyshie/lyshie-education
