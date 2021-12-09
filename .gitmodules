@@ -13,3 +13,6 @@
 [submodule "lyshie-education"]
 	path = lyshie-education
 	url = https://github.com/lyshie/lyshie-education
+[submodule "PAIA-MLGame-Bots"]
+	path = PAIA-MLGame-Bots
+	url = https://github.com/lyshie/PAIA-MLGame-Bots
