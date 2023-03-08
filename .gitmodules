@@ -4,9 +4,6 @@
 [submodule "pixel-font"]
 	path = pixel-font
 	url = https://github.com/lyshie/pixel-font
-[submodule "chps-dokuwiki"]
-	path = chps-dokuwiki
-	url = https://github.com/lyshie/chps-dokuwiki
 [submodule "google-tts-player"]
 	path = google-tts-player
 	url = https://github.com/lyshie/google-tts-player
